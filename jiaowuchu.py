@@ -18,7 +18,7 @@ class Jiaowuchu():
         }
         self.s.get('http://jwxt.upc.edu.cn/jwxt/', headers=self.headers)
         self.username = '1606050220'
-        self.password = '1606050220'
+        self.password = '*******'
         self.user = '无'
 
     # 登陆教务系统,并下载课表数据
